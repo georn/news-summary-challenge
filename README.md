@@ -12,7 +12,7 @@ The app ~~will grab all the headlines from the Guardian newspaper API and~~ disp
 
 This is a single page web app. It is ~~pure~~ frontend code in **JavaScript, CSS and HTML**. 
 
-The application ~~is tested~~ though so it uses **Mocha & Chai** for Unit Testing and **Zombie.js** for Feature Testing.
+The application ~~is tested~~ though so it uses **[Mocha](https://mochajs.org/) & [Chai](http://chaijs.com/)** for Unit Testing and **[Zombie.js](http://zombie.js.org/)** for Feature Testing.
 
 ## User Stories
 
@@ -58,11 +58,11 @@ To make my news reading more fun
 
 ### Headlines page
 
-![Headlines page mockup](/images/news-summary-project-headlines-page-mockup.png)
+![Headlines page mockup](/images/mockups/news-summary-project-headlines-page-mockup.png)
 
 ### Article summary page
 
-![Article page mockup](/images/news-summary-project-article-page-mockup.png)
+![Article page mockup](/images/mockups/news-summary-project-article-page-mockup.png)
 
 ## TODO
 
